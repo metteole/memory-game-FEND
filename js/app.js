@@ -1,4 +1,6 @@
-//The following code is broken into 6 TO DO's in order to seperate the items and make it more reader-friendly
+//The following code is broken into 6 TO DO's in order to seperate the items and make it more reader-friendly. I found help to structure it this way on the forum.
+
+
 
 
 // 1. TO DO: Declare all the variables that will be used in the code
